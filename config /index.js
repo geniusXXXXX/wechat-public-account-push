@@ -144,11 +144,11 @@ export const config = {
    */
   FESTIVALS: [
     // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-    {"type": "*生日", "name": "老婆", "year": "1996", "date": "09-09", isShowAge: true},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
+    {"type": "*生日", "name": "小徐", "year": "1995", "date": "06-11", isShowAge: true},
+    {"type": "节日", "name": "结婚纪念日", "year": "2018", "date": "12-12"},
     // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31", isShowAge: true},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+    {"type": "生日", "name": "小徐", "year": "1995", "date": "07-08", isShowAge: true},
+    {"type": "节日", "name": "被搭讪纪念日", "year": "208", "date": "09-2"},
     // 你可以不断按格式往下增加
     // ...
   ],
